@@ -1,39 +1,39 @@
 # Durga Shanker
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:12002B,100:7C3AED&text=Durga%20Shanker&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0A1A12,100:123524&text=Durga%20Shanker&fontSize=48&fontColor=E7E5E4&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&descColor=7EE787&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Staff+Software+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Building+Scalable+Enterprise+Software" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=850&lines=Staff+Software+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Turning+Complex+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-000000?style=for-the-badge&logo=google-scholar&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/11%2B%20Years%20Engineering%20Experience-5B21B6?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-123524?style=for-the-badge&logo=academia&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-050505?style=for-the-badge&logo=google-scholar&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/11%2B%20Years%20Engineering%20Experience-1A3326?style=for-the-badge&logo=target&logoColor=7EE787"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Bengaluru%2C%20India-050505?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/📍%20Bengaluru%2C%20India-050505?style=flat-square&labelColor=050505"/>
   <a href="https://itisds.ai">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-123524?style=flat-square&logo=google-chrome&logoColor=7EE787"/>
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A1A12?style=flat-square&logo=linkedin&logoColor=7EE787"/>
   </a>
   <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-123524?style=flat-square&logo=gmail&logoColor=7EE787"/>
   </a>
   <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/GitHub-050505?style=flat-square&logo=github&logoColor=7EE787"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsds&style=flat-square&color=7C3AED&label=PROFILE+VIEWS&labelColor=000000"/>
-  <img src="https://img.shields.io/github/followers/itsds?style=flat-square&color=5B21B6&label=FOLLOWERS&labelColor=000000"/>
-  <img src="https://img.shields.io/github/stars/itsds?style=flat-square&color=6D28D9&label=STARS&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=itsds&style=flat-square&color=7EE787&label=PROFILE+VIEWS&labelColor=050505"/>
+  <img src="https://img.shields.io/github/followers/itsds?style=flat-square&color=2EA043&label=FOLLOWERS&labelColor=050505"/>
+  <img src="https://img.shields.io/github/stars/itsds?style=flat-square&color=56D364&label=STARS&labelColor=050505"/>
 </p>
 
 ---
@@ -63,37 +63,37 @@ I have worked across the complete engineering lifecycle — from architecture an
 
 ## Tech Stack
 
-### Languages
+### ◆ Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,sql&theme=dark" alt="Languages"/>
 </p>
 
-### Frontend
+### ◆ Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css&theme=dark" alt="Frontend"/>
 </p>
 
-### Backend & Databases
+### ◆ Backend & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,redis&theme=dark" alt="Backend and Databases"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### ◆ Cloud, DevOps & Tooling
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,jenkins,grafana&theme=dark" alt="Cloud DevOps and Tooling"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=flat-square&logo=apachespark&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-12002B?style=flat-square&logo=apacheairflow&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/LLM%20Engineering-6D28D9?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-050505?style=flat-square&logo=apachekafka&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-050505?style=flat-square&logo=apachespark&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-0A1A12?style=flat-square&logo=apacheairflow&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/LangGraph-123524?style=flat-square&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/LLM%20Engineering-1A3326?style=flat-square&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/MCP-2EA043?style=flat-square&logoColor=FFFFFF"/>
 </p>
 
 ---
@@ -117,7 +117,7 @@ I have worked across the complete engineering lifecycle — from architecture an
 ## Featured Projects
 
 <details>
-<summary><strong>🚀 Aura Agents — Enterprise AI Software Engineering Automation Platform</strong></summary>
+<summary><strong>01 · Aura Agents — Enterprise AI Software Engineering Automation Platform</strong></summary>
 
 <br>
 
@@ -136,7 +136,7 @@ I have worked across the complete engineering lifecycle — from architecture an
 </details>
 
 <details>
-<summary><strong>💳 AI Concierge & Benefits Intelligence Platform</strong></summary>
+<summary><strong>02 · AI Concierge & Benefits Intelligence Platform</strong></summary>
 
 <br>
 
@@ -153,7 +153,7 @@ I have worked across the complete engineering lifecycle — from architecture an
 </details>
 
 <details>
-<summary><strong>⚡ Enterprise Big Data Pipeline Platform — Real-Time Analytics Infrastructure</strong></summary>
+<summary><strong>03 · Enterprise Big Data Pipeline Platform — Real-Time Analytics Infrastructure</strong></summary>
 
 <br>
 
@@ -182,7 +182,7 @@ Building and contributing to AI-powered software engineering platforms focused o
 - Contributed to **Aura Agents**, an AI-powered engineering automation platform using LLM agents, LangGraph, Claude and Python/FastAPI.
 - Worked across an architecture containing **22+ specialized AI agents** coordinating software engineering workflows.
 - Automated requirement analysis, code generation, validation and testing stages.
-- Contributed to reducing feature delivery turnaround time by **30%+**.
+- Contributed to reducing feature delivery turnaround time by **40%+**.
 - Integrated Jira, GitHub, CI/CD and internal knowledge systems.
 - Worked with production reliability patterns including PostgreSQL workflow checkpointing and hybrid retrieval.
 - Supported human-in-the-loop controls for production-facing engineering changes.
@@ -231,11 +231,11 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 
 | Recognition | Details |
 |---|---|
-| 🏆 **Client Appreciation** | Recognized with multiple client appreciation awards for consistently delivering high-quality software solutions |
-| ⭐ **Technical Excellence** | Recognized for technical excellence across enterprise software engineering engagements |
-| 🚀 **Delivery Impact** | Contributed to initiatives reducing feature delivery turnaround time by **30%+** |
-| ⚙️ **Data Platform Efficiency** | Improved distributed data processing efficiency by **30%+** |
-| 🔄 **Operational Automation** | Reduced manual intervention in critical data pipelines by **70%** |
+| ★ **Client Appreciation** | Recognized with multiple client appreciation awards for consistently delivering high-quality software solutions |
+| ◆ **Technical Excellence** | Recognized for technical excellence across enterprise software engineering engagements |
+| ▲ **Delivery Impact** | Contributed to initiatives reducing feature delivery turnaround time by **40%+** |
+| ◆ **Data Platform Efficiency** | Improved distributed data processing efficiency by **30%+** |
+| ↻ **Operational Automation** | Reduced manual intervention in critical data pipelines by **70%** |
 
 </div>
 
@@ -246,33 +246,33 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ### AWS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Architecting-000000?style=for-the-badge&logo=amazonaws&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/SanDisk%20Sponsored%20Training-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Architecting-050505?style=for-the-badge&logo=amazonaws&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/SanDisk%20Sponsored%20Training-123524?style=for-the-badge&logo=amazonaws&logoColor=7EE787"/>
 </p>
 
 ### Oracle
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Oracle-050505?style=for-the-badge&logo=oracle&logoColor=7EE787"/>
 </p>
 
 ### NPTEL
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-0A1A12?style=for-the-badge&logo=academia&logoColor=7EE787"/>
 </p>
 
 ### Cisco
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-123524?style=for-the-badge&logo=cisco&logoColor=7EE787"/>
 </p>
 
 ### HackerRank
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HackerRank-Java%20Intermediate-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-Java%20Intermediate-1A3326?style=for-the-badge&logo=hackerrank&logoColor=7EE787"/>
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-123524?style=for-the-badge&logo=hackerrank&logoColor=7EE787"/>
 </p>
 
 ---
@@ -281,16 +281,16 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 
 <p align="center">
   <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-123524?style=for-the-badge&logo=leetcode&logoColor=7EE787"/>
   </a>
   <a href="https://www.geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-0A1A12?style=for-the-badge&logo=geeksforgeeks&logoColor=7EE787"/>
   </a>
   <a href="https://www.hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-Coding-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Coding-1A3326?style=for-the-badge&logo=hackerrank&logoColor=7EE787"/>
   </a>
   <a href="https://www.codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-123524?style=for-the-badge&logo=codechef&logoColor=7EE787"/>
   </a>
 </p>
 
@@ -299,12 +299,12 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=7C3AED&text_color=F5F3FF" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=A78BFA&text_color=F5F3FF" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=7EE787&icon_color=56D364&text_color=E7E5E4" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=7EE787&text_color=E7E5E4" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsds&theme=dark&hide_border=true&background=000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=itsds&theme=dark&hide_border=true&background=050505&ring=7EE787&fire=56D364&currStreakLabel=7EE787&sideLabels=8A8A8A&currStreakNum=E7E5E4&sideNums=E7E5E4&dates=666666" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -320,7 +320,7 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&bg_color=000000&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&bg_color=050505&color=E7E5E4&line=7EE787&point=56D364&area=true&area_color=123524&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -382,25 +382,25 @@ Open To:
 
 <p align="center">
   <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-123524?style=for-the-badge&logo=gmail&logoColor=7EE787"/>
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A1A12?style=for-the-badge&logo=linkedin&logoColor=7EE787"/>
   </a>
   <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=7EE787"/>
   </a>
   <a href="https://itisds.ai">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-123524?style=for-the-badge&logo=google-chrome&logoColor=7EE787"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>“Build systems that scale, engineer with purpose, and turn complexity into simplicity.”</strong>
+  <strong>“Turning complex ideas into scalable software.”</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:5B21B6,100:000000&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:123524,50:0A1A12,100:050505&animation=fadeIn" width="100%" alt="Footer"/>
 </p>
