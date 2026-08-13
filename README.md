@@ -38,25 +38,6 @@
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-9D174D?style=for-the-badge&logo=gmail&logoColor=FFF7ED"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-3B176A?style=for-the-badge&logo=linkedin&logoColor=F0ABFC"/>
-  </a>
-  <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-itsds-12051F?style=for-the-badge&logo=github&logoColor=FDE7F3"/>
-  </a>
-  <a href="https://itisds.ai">
-    <img src="https://img.shields.io/badge/Portfolio-itisds.ai-DB2777?style=for-the-badge&logo=google-chrome&logoColor=FFF7ED"/>
-  </a>
-</p>
-
----
-
 ## About
 
 Staff Software Engineer with **11+ years of experience** building scalable backend platforms, distributed data systems, enterprise applications, and AI-powered engineering solutions.
@@ -348,12 +329,21 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 
 ---
 
-
-
 ## Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p> -->
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+</picture>
 </p>
 
 ---
@@ -388,12 +378,29 @@ Open To:
   - Agentic AI
   - Platform Engineering
   - Technical Leadership
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:itisds.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-9D174D?style=for-the-badge&logo=gmail&logoColor=FFF7ED"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-3B176A?style=for-the-badge&logo=linkedin&logoColor=F0ABFC"/>
+  </a>
+  <a href="https://github.com/itsds">
+    <img src="https://img.shields.io/badge/GitHub-itsds-12051F?style=for-the-badge&logo=github&logoColor=FDE7F3"/>
+  </a>
+  <a href="https://itisds.ai">
+    <img src="https://img.shields.io/badge/Portfolio-itisds.ai-DB2777?style=for-the-badge&logo=google-chrome&logoColor=FFF7ED"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:12051F,35:4C1D95,68:9D174D,100:DB2777&animation=fadeIn" width="100%" alt="Footer"/>
 </p>
-
-
-
