@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=F0ABFC&center=true&vCenter=true&width=850&lines=Staff+Software+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Turning+Complex+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=D946EF&center=true&vCenter=true&width=850&lines=Staff+Software+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Turning+Complex+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
 </p>
 
 <p align="center">
