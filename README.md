@@ -320,7 +320,7 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itisds&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
