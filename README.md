@@ -367,3 +367,23 @@ Open To:
   - Agentic AI
   - Platform Engineering
   - Technical Leadership
+
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:itisds.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-9D174D?style=for-the-badge&logo=gmail&logoColor=FFF7ED"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-3B176A?style=for-the-badge&logo=linkedin&logoColor=F0ABFC"/>
+  </a>
+  <a href="https://github.com/itsds">
+    <img src="https://img.shields.io/badge/GitHub-itsds-12051F?style=for-the-badge&logo=github&logoColor=FDE7F3"/>
+  </a>
+  <a href="https://itisds.ai">
+    <img src="https://img.shields.io/badge/Portfolio-itisds.ai-DB2777?style=for-the-badge&logo=google-chrome&logoColor=FFF7ED"/>
+  </a>
+</p>
