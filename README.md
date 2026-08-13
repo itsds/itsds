@@ -1,7 +1,7 @@
 # Durga Shanker
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:12002B,100:7C3AED&text=Durga%20Shanker&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,50:5B21B6,100:7C3AED&text=Durga%20Shanker&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
 </p>
 
 <p align="center">
@@ -9,31 +9,31 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-000000?style=for-the-badge&logo=google-scholar&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   <img src="https://img.shields.io/badge/11%2B%20Years%20Engineering%20Experience-5B21B6?style=for-the-badge&logo=target&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Bengaluru%2C%20India-050505?style=flat-square&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/📍%20Bengaluru%2C%20India-4C1D95?style=flat-square"/>
   <a href="https://itisds.ai">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-5B21B6?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsds&style=flat-square&color=7C3AED&label=PROFILE+VIEWS&labelColor=000000"/>
-  <img src="https://img.shields.io/github/followers/itsds?style=flat-square&color=5B21B6&label=FOLLOWERS&labelColor=000000"/>
-  <img src="https://img.shields.io/github/stars/itsds?style=flat-square&color=6D28D9&label=STARS&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=itsds&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/itsds?style=flat-square&color=5B21B6&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/itsds?style=flat-square&color=6D28D9&label=STARS"/>
 </p>
 
 ---
@@ -88,12 +88,12 @@ I have worked across the complete engineering lifecycle — from architecture an
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=flat-square&logo=apachespark&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-12002B?style=flat-square&logo=apacheairflow&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/LLM%20Engineering-6D28D9?style=flat-square&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-000000?style=flat-square&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-4B0082?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-5B21B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM%20Engineering-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square"/>
 </p>
 
 ---
@@ -246,26 +246,26 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ### AWS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Architecting-000000?style=for-the-badge&logo=amazonaws&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SanDisk%20Sponsored%20Training-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### Oracle
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Oracle-Enterprise%20Technology-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### NPTEL
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Engineering%20Education-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
 ### Cisco
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Technology-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ### HackerRank
@@ -299,12 +299,12 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=A78BFA&icon_color=7C3AED&text_color=F5F3FF" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=A78BFA&text_color=F5F3FF" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsds&theme=dark&hide_border=true&background=000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=itsds&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -320,7 +320,7 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&bg_color=000000&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -374,33 +374,3 @@ Open To:
   - Agentic AI
   - Platform Engineering
   - Technical Leadership
-```
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA"/>
-  </a>
-  <a href="https://itisds.ai">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>“Build systems that scale, engineer with purpose, and turn complexity into simplicity.”</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:5B21B6,100:000000&animation=fadeIn" width="100%" alt="Footer"/>
-</p>
