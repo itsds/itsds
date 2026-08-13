@@ -25,15 +25,15 @@
   <a href="mailto:itisds.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-5B21B6?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/itisds">
+  <a href="https://github.com/itsds">
     <img src="https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itisds&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/itisds?style=flat-square&color=5B21B6&label=FOLLOWERS"/>
-  <img src="https://img.shields.io/github/stars/itisds?style=flat-square&color=6D28D9&label=STARS"/>
+  <img src="https://komarev.com/ghpvc/?username=itsds&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/itsds?style=flat-square&color=5B21B6&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/stars/itsds?style=flat-square&color=6D28D9&label=STARS"/>
 </p>
 
 ---
@@ -299,12 +299,12 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itisds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisds&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itisds&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=itsds&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -312,7 +312,7 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itisds&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=itsds&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -328,7 +328,7 @@ Architected enterprise-scale data platforms supporting manufacturing analytics a
 ## Contribution Snake
 
 <!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/itisds/itisds/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/itsds/itsds/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p> -->
 
 <p align="center">
