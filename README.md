@@ -389,5 +389,11 @@ Open To:
   - Platform Engineering
   - Technical Leadership
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:12051F,35:4C1D95,68:9D174D,100:DB2777&animation=fadeIn" width="100%" alt="Footer"/>
+</p>
+
 
 
