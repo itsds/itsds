@@ -1,11 +1,11 @@
 # Durga Shanker
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,35:4C1D95,68:9D174D,100:DB2777&text=Durga%20Shanker&fontSize=48&fontColor=FFF7ED&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&descColor=FDE7F3&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,35:4C1D95,68:9D174D,100:DB2777&text=Durga%20Shanker&fontSize=48&fontColor=FFF7ED&fontAlignY=38&desc=Staff%20Data%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&descColor=FDE7F3&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=D946EF&center=true&vCenter=true&width=850&lines=Staff+Software+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Turning+Complex+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=D946EF&center=true&vCenter=true&width=850&lines=Staff+Data+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Turning+Complex+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 ## About
 
-Staff Software Engineer with **11+ years of experience** building scalable backend platforms, distributed data systems, enterprise applications, and AI-powered engineering solutions.
+Staff Data Engineer with **11+ years of experience** building scalable backend platforms, distributed data systems, enterprise applications, and AI-powered engineering solutions.
 
 My engineering focus sits at the intersection of **backend engineering, distributed systems, data platforms, and agentic AI**. I build production-grade systems using Java, Python, microservices, Apache Kafka, Apache Spark, and LLM-based agentic workflows.
 
@@ -174,7 +174,7 @@ I have worked across the complete engineering lifecycle — from architecture an
 
 ## Experience
 
-### Staff Software Engineer — Visa
+### Staff Data Engineer — Visa
 
 **May 2023 – Present · Bengaluru, India**
 
