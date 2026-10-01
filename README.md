@@ -1,406 +1,238 @@
-# Durga Shanker
+<!-- Sky / Violet theme · generated to match DS_GitHub_Profile.html -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12051F,35:4C1D95,68:9D174D,100:DB2777&text=Durga%20Shanker&fontSize=48&fontColor=FFF7ED&fontAlignY=38&desc=Staff%20Data%20Engineer%20%7C%20Backend%20%7C%20Distributed%20Systems%20%7C%20Agentic%20AI&descAlignY=58&descSize=17&descColor=FDE7F3&animation=fadeIn" width="100%" alt="Durga Shanker Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:38bdf8,50:a78bfa,100:f472b6&text=DURGA%20SHANKER&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Better%20Call%20DS&descAlignY=60&descSize=17&descColor=0B0F1A&animation=fadeIn" width="100%" alt="DURGA SHANKER · Better Call DS"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=D946EF&center=true&vCenter=true&width=850&lines=Staff+Data+Engineer;Backend+%26+Distributed+Systems;Data+Platforms+%7C+Real-Time+Pipelines;Agentic+AI+%7C+LLM+Engineering;Turning+Complex+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.E.-Computer%20Science%20%26%20Engineering-3B176A?style=for-the-badge&logo=academia&logoColor=FDE7F3"/>
-  <img src="https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-12051F?style=for-the-badge&logo=google-scholar&logoColor=FDE7F3"/>
-  <img src="https://img.shields.io/badge/11%2B%20Years%20Engineering%20Experience-9D174D?style=for-the-badge&logo=target&logoColor=FFF7ED"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Bengaluru%2C%20India-12051F?style=flat-square&labelColor=08070F&color=12051F"/>
-  <a href="https://itisds.ai">
-    <img src="https://img.shields.io/badge/Portfolio-3B176A?style=flat-square&logo=google-chrome&logoColor=F0ABFC"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-12051F?style=flat-square&logo=linkedin&logoColor=F0ABFC"/>
-  </a>
-  <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9D174D?style=flat-square&logo=gmail&logoColor=FFF7ED"/>
-  </a>
   <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-12051F?style=flat-square&logo=github&logoColor=FDE7F3"/>
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Staff+Data+Engineer+%7C+AI+Platform+Engineer;Batch+%26+Streaming+Pipelines+at+Scale;PySpark+%C2%B7+Kafka+%C2%B7+AWS+%C2%B7+Snowflake;LangGraph+Multi-Agent+Systems+%C2%B7+RAG" alt="Staff Data Engineer | AI Platform Engineer · Batch &amp; Streaming Pipelines at Scale · PySpark · Kafka · AWS · Snowflake · LangGraph Multi-Agent Systems · RAG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsds&style=flat-square&color=DB2777&label=PROFILE+VIEWS&labelColor=08070F"/>
-  <img src="https://img.shields.io/github/followers/itsds?style=flat-square&color=9D174D&label=FOLLOWERS&labelColor=08070F"/>
-  <img src="https://img.shields.io/github/stars/itsds?style=flat-square&color=F0ABFC&label=STARS&labelColor=08070F"/>
-</p>
-
----
-
-## About
-
-Staff Data Engineer with **11+ years of experience** building scalable backend platforms, distributed data systems, enterprise applications, and AI-powered engineering solutions.
-
-My engineering focus sits at the intersection of **backend engineering, distributed systems, data platforms, and agentic AI**. I build production-grade systems using Java, Python, microservices, Apache Kafka, Apache Spark, and LLM-based agentic workflows.
-
-I have worked across the complete engineering lifecycle — from architecture and system design to implementation, testing, deployment, observability, and production operations — with a strong focus on scalability, reliability, maintainability, and engineering excellence.
-
-### Engineering Focus
-
-- **Software Engineering** — scalable backend services, APIs, microservices, system architecture
-- **Distributed Systems** — event-driven architectures, streaming platforms, fault-tolerant services
-- **AI / ML Engineering** — LLM applications, agentic workflows, multi-agent architectures
-- **Data Engineering** — real-time pipelines, distributed ETL, analytics infrastructure
-- **Full-Stack Product Engineering** — backend-first product development with enterprise integrations
-- **Product Engineering Mindset** — solving business problems through reliable, measurable software
-
-### Open To
-
-`Staff / Principal Engineering` · `Backend & Distributed Systems` · `AI Engineering` · `Agentic AI` · `Platform Engineering` · `Data Platforms` · `Technical Leadership`
-
----
-
-## Tech Stack
-
-### ◆ Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,sql&theme=dark" alt="Languages"/>
-</p>
-
-### ◆ Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css&theme=dark" alt="Frontend"/>
-</p>
-
-### ◆ Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,mysql,redis&theme=dark" alt="Backend and Databases"/>
-</p>
-
-### ◆ Cloud, DevOps & Tooling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,jenkins,grafana&theme=dark" alt="Cloud DevOps and Tooling"/>
+  <b>11.5 years</b> building production systems — from backend services to large-scale data pipelines to autonomous AI agents.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-12051F?style=flat-square&logo=apachekafka&logoColor=67E8F9"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-12051F?style=flat-square&logo=apachespark&logoColor=67E8F9"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-21143B?style=flat-square&logo=apacheairflow&logoColor=67E8F9"/>
-  <img src="https://img.shields.io/badge/LangGraph-3B176A?style=flat-square&logoColor=FDE7F3"/>
-  <img src="https://img.shields.io/badge/LLM%20Engineering-9D174D?style=flat-square&logoColor=FFF7ED"/>
-  <img src="https://img.shields.io/badge/MCP-DB2777?style=flat-square&logoColor=FFFFFF"/>
+  <a href="https://linkedin.com/in/itsds"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://itsds.github.io"><img height="30" src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:itisds.ai@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<p align="center">
+  <img height="22" src="https://komarev.com/ghpvc/?username=itsds&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0284C7&color=38BDF8" alt="Profile views"/>
+  <a href="https://github.com/itsds?tab=followers"><img height="22" src="https://img.shields.io/github/followers/itsds?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=7C3AED&color=A78BFA" alt="Followers"/></a>
+  <a href="https://github.com/itsds?tab=repositories"><img height="22" src="https://img.shields.io/github/stars/itsds?style=for-the-badge&logo=github&logoColor=white&label=STARS&affiliations=OWNER&labelColor=DB2777&color=F472B6" alt="Stars"/></a>
+</p>
 
-## AI / ML Expertise
+## 🧭 About Me
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Agentic AI | `Advanced` | Multi-agent architectures, agent orchestration, production AI workflows |
-| Large Language Models | `Advanced` | LLM-powered engineering automation and enterprise applications |
-| LangGraph | `Advanced` | Stateful multi-agent workflow orchestration and checkpointing |
-| AI Software Engineering | `Advanced` | Requirement analysis, code generation, validation and testing automation |
-| Retrieval Systems | `Advanced` | Semantic, graph and keyword retrieval for codebase-aware grounding |
-| Human-in-the-Loop AI | `Advanced` | Approval-driven workflows for production-facing engineering changes |
-| Prompt Engineering | `Advanced` | Structured prompting and context engineering for reliable AI workflows |
-| MCP | `Intermediate` | Model Context Protocol based tool and context integration |
-| ML Data Platforms | `Advanced` | Distributed data pipelines supporting analytics and ML workloads |
+Staff Data Engineer with **11.5 years** across three domains — currently at **Visa**, building enterprise-grade pipelines and autonomous AI agent platforms.
 
----
+| Years | Domain | Focus |
+|:---:|---|---|
+| **4.5** | **Backend** | Java microservices, Spring Boot, distributed systems |
+| **6.5+** | **Data Engineering** | Spark, Kafka, Iceberg, Snowflake — batch &amp; streaming at scale |
+| **1+** | **AI Engineering** | LangGraph agents, RAG, LLM orchestration *(overlaps DE)* |
 
-## Featured Projects
+Drawn to the intersection where **data engineering meets AI** — building the infrastructure, retrieval layers, and production scaffolding that make AI agents reliable and observable.
 
-<details>
-<summary><strong>01 · Aura Agents — Enterprise AI Software Engineering Automation Platform</strong></summary>
+## 🔥 What I'm Building
 
-<br>
+### 🏷️ [TTAG Pipeline](https://github.com/itsds/ttag-pipeline) &nbsp;`PRIVATE`
 
-| Dimension | Details |
+*End-to-end batch pipeline deriving cardholder travel signals to improve authorization accuracy and reduce false declines.*
+
+- **Two-lane ingestion** — Booking files (HDFS) + Benefit stream (Kafka + Schema Registry)
+- **Bronze → Silver → Gold** medallion on Iceberg with Hive Metastore
+- Incremental loading via **Iceberg snapshot-based reads** with watermark control tables
+- Idempotent **MERGE INTO** writes on natural keys at every layer
+- **4-gate Airflow DAG** — schema validation, row-count checks, cross-lane reconciliation
+- Gold **star schema** on Snowflake — Type 2 SCD dimensions, temporal FK lookups
+
+`PySpark` `Iceberg` `Kafka` `Snowflake` `Airflow` `HDFS` `Great Expectations`
+
+### 👁️ [Argus — Diagnostic Agents](https://github.com/itsds/argus)
+
+*Four AI agents watching different failure surfaces of TTAG — named after the hundred-eyed watchman.*
+
+| Agent | What It Does |
 |---|---|
-| **Stack** | Python · FastAPI · LangGraph · Claude · LLMs · PostgreSQL · Jira · GitHub · CI/CD |
-| **Scale** | Multi-agent architecture with **22+ specialized AI agents**; high-traffic agents scaled to **10× replicas** |
-| **Performance** | Automated core SDLC stages and contributed to reducing feature delivery turnaround time by **30%+** |
-| **Security** | Human-in-the-loop approval before implementation and production-facing code generation |
-| **Impact** | Automates requirement analysis, implementation planning, code generation, validation and testing |
-| **Architecture** | Independently deployable agents coordinated through a LangGraph-based workflow architecture |
-| **Reliability** | PostgreSQL-backed workflow checkpointing replaced in-memory state to address pod memory growth |
-| **Context Engineering** | Hybrid retrieval combining semantic, graph and keyword search for codebase-aware grounding |
-| **Professional Explanation** | Enterprise AI platform designed to transform Jira requirements into GitHub Pull Request workflows while maintaining engineering governance, production reliability and human control. |
+| **Recon Diagnostics** | Traces row-count mismatches, duplicate keys, NULL FK joins, watermark gaps |
+| **DLQ Triage** | Classifies DLQ records, auto-requeues transients, escalates with context |
+| **Backfill Planning** | Queries watermarks + Iceberg snapshots → safe backfill plan with HITL approval |
+| **Spark Debugger** | Analyzes SparkUI metrics, execution plans → surfaces skew, spills, GC issues |
 
-</details>
+- Each agent: **LangGraph StateGraph** with typed Pydantic state + structured output
+- Multi-trigger: Airflow `on_failure_callback` · CLI · REST API
+- P1 → PagerDuty · P2 → Slack · P3 → log only
 
-<details>
-<summary><strong>02 · AI Concierge & Benefits Intelligence Platform</strong></summary>
+`LangGraph` `LangChain` `Gemini` `FastAPI` `Python`
 
-<br>
+### 📈 [DSView — Real-Time Crypto](https://github.com/itsds/dsview)
 
-| Dimension | Details |
-|---|---|
-| **Stack** | Java · Spring Boot · REST APIs · Enterprise Benefits Platforms |
-| **Scale** | Customer-facing enterprise backend services |
-| **Performance** | Real-time benefit discovery and personalized recommendation workflows |
-| **Security** | Secure REST API integration across enterprise platforms |
-| **Impact** | Powered AI Concierge capabilities including benefit discovery, lounge access and cardholder recommendations |
-| **Architecture** | Spring Boot backend services supporting mobile AI assistants |
-| **Professional Explanation** | Backend platform enabling conversational banking experiences through secure enterprise integrations and personalized customer interactions. |
+*Real-time BTC-USD pipeline replicating TradingView premium — from exchange WebSocket ticks to a live candlestick dashboard.*
 
-</details>
+- **Binance WebSocket → Redpanda** for live ingestion
+- **Spark Structured Streaming** → windowed aggregations → Iceberg tables
+- **FastAPI** backend + **React** frontend with TradingView's `lightweight-charts`
+- Redis pub/sub for real-time WebSocket push to clients
 
-<details>
-<summary><strong>03 · Enterprise Big Data Pipeline Platform — Real-Time Analytics Infrastructure</strong></summary>
+`Spark Streaming` `Redpanda` `Iceberg` `Redis` `FastAPI` `React`
 
-<br>
+### 🤖 Aura AI 2.0 — Autonomous SWE Platform &nbsp;`VISA · INTERNAL`
 
-| Dimension | Details |
-|---|---|
-| **Stack** | Apache Kafka · Apache Spark · Hive · Hadoop · HDFS · Avro · Airflow · Python |
-| **Scale** | Enterprise-scale manufacturing datasets supporting analytics and ML workloads |
-| **Performance** | Distributed processing optimization improved data-processing efficiency by **30%+** |
-| **Security** | Enterprise data-platform controls and production operational practices |
-| **Impact** | Transformed raw manufacturing logs into analytics-ready datasets |
-| **Automation** | Airflow orchestration reduced manual intervention by **70%** |
-| **Reliability** | Monitoring, reporting and automated incident-management workflows |
-| **Professional Explanation** | Distributed streaming and ETL platform engineered for high-volume manufacturing data, enabling reliable downstream analytics and machine-learning workloads. |
+*Multi-agent platform that turns a Jira ticket into a reviewed pull request — autonomously.*
 
-</details>
+- **9 specialized agents** orchestrated via Spring Boot event router
+- **Graph-RAG**: Neo4j code graph + PGVector semantic + BM25 — cross-encoder reranked
+- **LangGraph** workflows with PostgreSQL-backed crash recovery checkpoints
+- **Episodic + Procedural memory** — cross-repo learning from merged PRs
+- **Deterministic Execution Engine** — SHA-256 fingerprinting + LLM cache + replay API
 
----
+`LangGraph` `Spring Boot` `Java 17` `Neo4j` `PGVector` `Claude/GPT` `K8s`
 
-## Experience
+## 🛠️ Tech Stack
 
-### Staff Data Engineer — Visa
+**Languages**
 
-**May 2023 – Present · Bengaluru, India**
-
-Building and contributing to AI-powered software engineering platforms focused on automating enterprise SDLC workflows.
-
-- Contributed to **Aura Agents**, an AI-powered engineering automation platform using LLM agents, LangGraph, Claude and Python/FastAPI.
-- Worked across an architecture containing **22+ specialized AI agents** coordinating software engineering workflows.
-- Automated requirement analysis, code generation, validation and testing stages.
-- Contributed to reducing feature delivery turnaround time by **40%+**.
-- Integrated Jira, GitHub, CI/CD and internal knowledge systems.
-- Worked with production reliability patterns including PostgreSQL workflow checkpointing and hybrid retrieval.
-- Supported human-in-the-loop controls for production-facing engineering changes.
-
-`Python` `FastAPI` `LangGraph` `Claude` `LLMs` `Agentic AI` `PostgreSQL` `Jira` `GitHub` `CI/CD`
-
-### Staff Data Engineer — SanDisk
-
-**Apr 2019 – May 2023 · Bengaluru, India**
-
-Architected enterprise-scale data platforms supporting manufacturing analytics and ML workloads.
-
-- Designed distributed data platforms using Apache Kafka, Spark, Python, Hive, Avro and Hadoop ecosystem technologies.
-- Optimized distributed ETL and Spark workflows, improving processing efficiency by **30%+**.
-- Built pipelines transforming large-scale raw logs into analytics-ready datasets.
-- Owned production data applications and operational workflows.
-- Implemented Apache Airflow orchestration, monitoring, reporting and automated incident management.
-- Improved operational reliability and reduced manual intervention across production data platforms.
-
-`Apache Kafka` `Apache Spark` `Python` `Hive` `Hadoop` `Avro` `Airflow` `ETL` `Data Platforms`
-
-### Senior Systems Engineer — Infosys
-
-**Jun 2017 – Apr 2019 · Bengaluru, India**
-
-- Developed enterprise Java/J2EE applications and REST APIs supporting business-critical workflows.
-- Focused on scalability, maintainability and reliability.
-- Delivered solutions across design, development, testing, deployment and production support.
-- Collaborated with global engineering teams in Agile environments.
-
-`Java` `J2EE` `REST APIs` `SQL` `Agile` `Enterprise Software`
-
-### Senior Software Engineer — HCL Technologies
-
-**Nov 2014 – Jun 2017 · Bengaluru, India**
-
-- Built enterprise applications using Java, Spring, Hibernate and SQL.
-- Developed backend services, database integrations and secure business workflows.
-- Designed reusable application components.
-- Implemented Role-Based Access Control solutions improving security and maintainability.
-
-`Java` `Spring` `Hibernate` `SQL` `RBAC` `Backend Engineering`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| ★ **Client Appreciation** | Recognized with multiple client appreciation awards for consistently delivering high-quality software solutions |
-| ◆ **Technical Excellence** | Recognized for technical excellence across enterprise software engineering engagements |
-| ▲ **Delivery Impact** | Contributed to initiatives reducing feature delivery turnaround time by **40%+** |
-| ◆ **Data Platform Efficiency** | Improved distributed data processing efficiency by **30%+** |
-| ↻ **Operational Automation** | Reduced manual intervention in critical data pipelines by **70%** |
-
-</div>
-
----
-
-## Certifications
-
-### AWS
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Architecting-12051F?style=for-the-badge&logo=amazonaws&logoColor=F0ABFC"/>
-  <img src="https://img.shields.io/badge/SanDisk%20Sponsored%20Training-3B176A?style=for-the-badge&logo=amazonaws&logoColor=FDE7F3"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
-### Oracle
+**Data Engineering**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-12051F?style=for-the-badge&logo=oracle&logoColor=FFF7ED"/>
+<p>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Iceberg-4E9BCD?style=flat-square" alt="Iceberg"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square" alt="Delta Lake"/>
+  <img src="https://img.shields.io/badge/Redpanda-DC382D?style=flat-square" alt="Redpanda"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Hive-C9A800?style=flat-square&logo=apachehive&logoColor=white" alt="Hive"/>
+  <img src="https://img.shields.io/badge/Great%20Expectations-FF6F00?style=flat-square" alt="Great Expectations"/>
 </p>
 
-### NPTEL
+**AI &amp; Agents**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-21143B?style=for-the-badge&logo=academia&logoColor=FDE7F3"/>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/RAG-FF4500?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" alt="LangSmith"/>
 </p>
 
-### Cisco
+**Backend &amp; Databases**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-3B176A?style=for-the-badge&logo=cisco&logoColor=67E8F9"/>
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
 </p>
 
-### HackerRank
+**DevOps &amp; Infra**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HackerRank-Java%20Intermediate-9D174D?style=for-the-badge&logo=hackerrank&logoColor=FFF7ED"/>
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-3B176A?style=for-the-badge&logo=hackerrank&logoColor=FDE7F3"/>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
 </p>
 
----
+## 📊 Career Journey
 
-## Coding Profiles
+| Company | Role | Years | Focus |
+|---|---|:---:|---|
+| **HCL Technologies** | Sr. Software Engineer | 2014 – 2017 | Backend |
+| **Infosys** | Sr. Systems Engineer | 2017 – 2019 | Backend + DE |
+| **SanDisk / WD** | Staff Data Engineer | 2019 – 2023 | Data Engineering |
+| **Visa** | Staff Data Engineer | 2023 – Present | DE + AI |
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-3B176A?style=for-the-badge&logo=leetcode&logoColor=F0ABFC"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-21143B?style=for-the-badge&logo=geeksforgeeks&logoColor=FDE7F3"/>
-  </a>
-  <a href="https://www.hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-Coding-9D174D?style=for-the-badge&logo=hackerrank&logoColor=FFF7ED"/>
-  </a>
-  <a href="https://www.codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-3B176A?style=for-the-badge&logo=codechef&logoColor=F0ABFC"/>
-  </a>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=08070F&title_color=F0ABFC&icon_color=DB2777&text_color=FFF7ED" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=08070F&title_color=F0ABFC&text_color=FDE7F3" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171d30&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0284c7&icon_color=7c3aed&text_color=1e293b"/>
+    <img alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=itsds&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171d30&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" height="170"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=171d30&title_color=38bdf8&text_color=e2e8f0"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=1e293b"/>
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsds&layout=compact&langs_count=8&hide_border=true&bg_color=171d30&title_color=38bdf8&text_color=e2e8f0" height="170"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=itsds&theme=dark&hide_border=true&background=08070F&ring=DB2777&fire=F0ABFC&currStreakLabel=FDE7F3&sideLabels=F0ABFC&currStreakNum=FFF7ED&sideNums=FFF7ED&dates=B38AA6" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=itsds&hide_border=true&background=171d30&stroke=2a3350&ring=a78bfa&fire=f472b6&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=8892a8"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=itsds&hide_border=true&background=ffffff&stroke=e2e8f0&ring=7c3aed&fire=db2777&currStreakLabel=0284c7&sideLabels=0284c7&currStreakNum=0f172a&sideNums=0f172a&dates=64748b"/>
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=itsds&hide_border=true&background=171d30&stroke=2a3350&ring=a78bfa&fire=f472b6&currStreakLabel=38bdf8&sideLabels=38bdf8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=8892a8"/>
+  </picture>
 </p>
 
----
-
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsds&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=itsds&no-frame=true&no-bg=true&margin-w=8&column=-1&theme=darkhub"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=itsds&no-frame=true&no-bg=true&margin-w=8&column=-1&theme=flat"/>
+    <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=itsds&no-frame=true&no-bg=true&margin-w=8&column=-1&theme=darkhub"/>
+  </picture>
 </p>
 
----
-
-## Contribution Activity
+## 📉 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&bg_color=08070F&color=FDE7F3&line=DB2777&point=F0ABFC&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=itsds&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=171d30&color=e2e8f0&title_color=38bdf8&line=38bdf8&point=f472b6&area_color=a78bfa"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=itsds&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=ffffff&color=1e293b&title_color=0284c7&line=0284c7&point=db2777&area_color=c4b5fd"/>
+    <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=171d30&color=e2e8f0&title_color=38bdf8&line=38bdf8&point=f472b6&area_color=a78bfa" width="100%"/>
+  </picture>
 </p>
 
----
-
-## Contribution Snake
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p> -->
+## 🐍 Contribution Snake
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsds/itsds/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsds/itsds/output/github-snake.svg"/>
+    <img alt="Contribution snake eating the commit grid" src="https://raw.githubusercontent.com/itsds/itsds/output/github-snake-dark.svg"/>
+  </picture>
 </p>
 
----
+## 🤝 Let's Connect
 
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Agentic AI Architectures
-  - LLM Systems & Context Engineering
-  - Distributed Systems
-  - System Design
-  - Production AI Reliability
-
-Building:
-  - AI-powered Software Engineering Platforms
-  - Enterprise Agentic Workflows
-  - Scalable Backend Systems
-  - Real-Time Data Platforms
-
-Exploring:
-  - Multi-Agent Systems
-  - Model Context Protocol
-  - Retrieval-Augmented Generation
-  - AI-assisted Software Development
-  - AI Infrastructure
-
-Open To:
-  - Staff / Principal Engineering
-  - Backend & Distributed Systems
-  - AI Engineering
-  - Agentic AI
-  - Platform Engineering
-  - Technical Leadership
-```
-
----
-
-## Connect
+Open to conversations about **data engineering architecture**, **AI agent systems**, and **production-grade pipelines**.
 
 <p align="center">
-  <a href="mailto:itisds.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-itisds.ai%40gmail.com-9D174D?style=for-the-badge&logo=gmail&logoColor=FFF7ED"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-3B176A?style=for-the-badge&logo=linkedin&logoColor=F0ABFC"/>
-  </a>
-  <a href="https://github.com/itsds">
-    <img src="https://img.shields.io/badge/GitHub-itsds-12051F?style=for-the-badge&logo=github&logoColor=FDE7F3"/>
-  </a>
-  <a href="https://itisds.ai">
-    <img src="https://img.shields.io/badge/Portfolio-itisds.ai-DB2777?style=for-the-badge&logo=google-chrome&logoColor=FFF7ED"/>
-  </a>
+  <code>Staff / Principal Engineering</code> · <code>AI Engineering</code> · <code>Agentic AI</code> · <code>Data Platforms</code> · <code>Backend &amp; Distributed Systems</code> · <code>Platform Engineering</code>
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/itsds"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://itsds.github.io"><img height="30" src="https://img.shields.io/badge/Portfolio-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:itisds.ai@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/itsds"><img height="30" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<p align="center"><i>⚡ Built with purpose — pipelines that move data, agents that fix themselves.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:12051F,35:4C1D95,68:9D174D,100:DB2777&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38bdf8,50:a78bfa,100:f472b6&animation=fadeIn" width="100%" alt=""/>
 </p>
