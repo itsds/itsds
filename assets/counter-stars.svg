@@ -686,5 +686,5 @@ img { max-width: 100%; }
 .pill-wrap a { box-shadow: none; }
 ]]></style><div xmlns="http://www.w3.org/1999/xhtml" class="page bare th"><div class="pill-wrap"><a class="counter ct-stars" href="https://github.com/itsds?tab=repositories">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg>
-      Stars <span class="cnt">—</span>
+      Stars <span class="cnt">0</span>
     </a></div></div></foreignObject></svg>

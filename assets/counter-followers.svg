@@ -686,5 +686,5 @@ img { max-width: 100%; }
 .pill-wrap a { box-shadow: none; }
 ]]></style><div xmlns="http://www.w3.org/1999/xhtml" class="page bare th"><div class="pill-wrap"><a class="counter ct-followers" href="https://github.com/itsds?tab=followers">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 11a4 4 0 100-8 4 4 0 000 8zm0 2c-3.3 0-7 1.7-7 4v2h14v-2c0-2.3-3.7-4-7-4zm7.5-2a3.5 3.5 0 10-1.7-6.6 6 6 0 010 6.2c.5.3 1.1.4 1.7.4zm1.3 2.1c1.3.9 2.2 2.1 2.2 3.9v2h3v-2c0-2-2.5-3.5-5.2-3.9z"/></svg>
-      Followers <span class="cnt">—</span>
+      Followers <span class="cnt">1</span>
     </a></div></div></foreignObject></svg>
