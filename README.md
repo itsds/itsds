@@ -109,9 +109,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=itsds&no-frame=true&no-bg=true&margin-w=8&column=-1&theme=darkhub">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=itsds&no-frame=true&no-bg=true&margin-w=8&column=-1&theme=flat">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsds&no-frame=true&no-bg=true&margin-w=8&column=-1&theme=flat" alt="GitHub trophies">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsds/itsds/main/assets/trophies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsds/itsds/main/assets/trophies-light.svg">
+  <img src="https://raw.githubusercontent.com/itsds/itsds/main/assets/trophies-light.svg" width="100%" alt="GitHub trophies: commits, repositories, pull requests, stars, followers and years on GitHub">
 </picture>
 </p>
 
@@ -125,9 +125,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=itsds&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=171d30&color=e2e8f0&title_color=38bdf8&line=38bdf8&point=f472b6&area_color=a78bfa">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=itsds&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=ffffff&color=1e293b&title_color=0284c7&line=0284c7&point=db2777&area_color=c4b5fd">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsds&area=true&hide_border=true&custom_title=Contribution%20Activity&bg_color=ffffff&color=1e293b&title_color=0284c7&line=0284c7&point=db2777&area_color=c4b5fd" alt="Contribution activity graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsds/itsds/main/assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsds/itsds/main/assets/activity-light.svg">
+  <img src="https://raw.githubusercontent.com/itsds/itsds/main/assets/activity-light.svg" width="100%" alt="Contribution activity over the last 31 days">
 </picture>
 </p>
 
