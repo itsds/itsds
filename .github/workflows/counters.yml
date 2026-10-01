@@ -1,5 +1,8 @@
-# Refreshes the Profile Views / Followers / Stars pills in assets/ every 6 hours.
-name: Update profile counters
+# Refreshes the Profile Views / Followers / Stars pills and renders the
+# Contribution Activity graph and GitHub Trophies cards into assets/.
+# Optional: add a classic token with `read:user` as the PROFILE_TOKEN secret
+# so private contributions are counted too.
+name: Update profile cards
 
 on:
   schedule:
@@ -7,7 +10,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [assets/templates/**, scripts/update_counters.py]
+    paths: [assets/templates/**, scripts/**, .github/workflows/counters.yml]
 
 permissions:
   contents: write
@@ -26,10 +29,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
         run: python scripts/update_counters.py
+      - name: Render activity graph and trophies
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: python scripts/update_widgets.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/counter-*.svg
-          git diff --cached --quiet || git commit -m "chore: refresh profile counters"
+          git add assets/counter-*.svg assets/*activity-*.svg assets/*trophies-*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh profile cards"
           git push

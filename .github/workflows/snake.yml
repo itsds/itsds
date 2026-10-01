@@ -1,9 +1,14 @@
-name: Generate Snake Animation
+# Save as .github/workflows/snake.yml in the itsds/itsds repo.
+# Generates your own contribution snake in both page palettes (sky/violet and Ember & Parchment)
+# and publishes it to the `output` branch the profile page reads from.
+name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -11,18 +16,18 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
-          github_user_name: kashif7230
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#0284c7&color_dots=#e2e8f0,#c7d2fe,#a78bfa,#7c3aed,#4c1d95
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8&color_dots=#1e2438,#312e81,#5b21b6,#8b5cf6,#c4b5fd
+            dist/github-snake-ember.svg?color_snake=#c2410c&color_dots=#efe8da,#f3d9a4,#e0b84a,#b8860b,#0f6f5c
+            dist/github-snake-ember-dark.svg?palette=github-dark&color_snake=#f0773a&color_dots=#24201a,#5c2b0f,#b45309,#d4a72c,#3fb68b
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
